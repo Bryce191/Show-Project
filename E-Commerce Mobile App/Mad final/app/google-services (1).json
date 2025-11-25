@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "18005370915",
+    "firebase_url": "https://mad-assignment-6aee0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mad-assignment-6aee0",
+    "storage_bucket": "mad-assignment-6aee0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18005370915:android:c89f495b154fba8ce66996",
+        "android_client_info": {
+          "package_name": "com.example.mad_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByYG9gqA-kkg6koyM_Sa3bcSwOYBJ-dF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
